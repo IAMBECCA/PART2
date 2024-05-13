@@ -7,7 +7,7 @@ Compile and Run
 
 Cloning the Repository: Cloning the repository to my local machine using Git or download the zip file and extract it.
 
-https://github.com/IAMBECCA/PROGRAMING_POE
+https://github.com/IAMBECCA/PART2
 
 Open Solution in Visual Studio: Open Visual Studio and navigate to File > Open > Project/Solution. Then select the recipe-application.sln file from the cloned repository.
 
